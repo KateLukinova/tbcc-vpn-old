@@ -5,21 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ad1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ad2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ad3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/android.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/android6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ios.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo-mobile.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/main-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/staking.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/staking.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/wallet.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +57,7 @@
       <workItem from="1589266048085" duration="8804000" />
       <workItem from="1589354913640" duration="5827000" />
       <workItem from="1591357771516" duration="8605000" />
+      <workItem from="1591689965207" duration="2793000" />
     </task>
     <servers />
   </component>
