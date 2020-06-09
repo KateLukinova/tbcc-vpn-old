@@ -437,13 +437,15 @@ footer .content {
       .two-block .column .img {
         max-width: 300px;
         margin: auto; }
-      .two-block .column .text h2 {
-        display: block;
-        text-align: center;
-        margin-top: 25px; }
-      .two-block .column .text p {
-        display: block;
-        text-align: center; }
+      .two-block .column .text {
+        padding-right: 0; }
+        .two-block .column .text h2 {
+          display: block;
+          text-align: center;
+          margin-top: 25px; }
+        .two-block .column .text p {
+          display: block;
+          text-align: center; }
     .two-block.mobile-column-reverse {
       -webkit-box-orient: vertical;
       -webkit-box-direction: reverse;
